@@ -1,0 +1,12 @@
+div{
+    border: solid 10px;
+    border-radius: 50px;
+    width: 700px;
+   background-color:darkseagreen;
+    padding: 25px;
+    margin:auto;
+}
+
+container{
+font-family: cursive ;
+}
